@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "You can cite the lecture notes as below."
+authors:
+- family-names: "Bahçeci"
+  given-names: "Ufuk"
+  orcid: "https://orcid.org/0000-0001-5415-3705"
+title: "Network Models"
+date-released: 2023
+url: "https://github.com/UfukBahceci/NetworkModelsLectureNotes"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Bahçeci"
+    given-names: "Ufuk"
+    orcid: "https://orcid.org/0000-0001-5415-3705"
+  title: "Network Models"
+  year: 2023
